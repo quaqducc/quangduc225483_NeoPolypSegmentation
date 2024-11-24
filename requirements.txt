@@ -1,0 +1,6 @@
+argparse
+cv2
+numpy
+torch
+segmentation_models_pytorch
+albumentations
